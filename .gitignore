@@ -3,3 +3,4 @@ course_config.toml
 */pom.xml
 */.tmcproject.yml
 */src/test
+*.class
