@@ -9,10 +9,10 @@ I've already finished the first part and I'll not be uploading it here (for now)
 
 # 📈 Progress
 
-| Part | Exercise | Name                         | ¿Done? | Notes |
-| ---- | -------- | ---------------------------- | ------ | ----- |
+| Part | Exercise | Name                         | ¿Done? | Notes                                                          |
+| ---- | -------- | ---------------------------- | ------ | -------------------------------------------------------------- |
 | 8    | 1        | Cubes                        | ✅     | All exercises from 8 are just a recap for the previous 7 parts |
-| 8    | 2        | AverageOfPositiveNumbers     |        |
+| 8    | 2        | AverageOfPositiveNumbers     | ✅     |
 | 8    | 3        | LiquidContainers             |        |
 | 8    | 4        | LiquidContainers2            |        |
 | 8    | 5        | TodoList                     |        |
