@@ -1,1 +1,5 @@
 course_config.toml
+*/target/
+*/pom.xml
+*/.tmcproject.yml
+*/src/test
