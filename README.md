@@ -11,21 +11,21 @@ I've already finished the first part and I'll not be uploading it here (for now)
 
 | Part | Exercise | Name                         | ¿Done? | Notes |
 | ---- | -------- | ---------------------------- | ------ | ----- |
-| 8    | 1        | Cubes                        | [x]    | All exercises from 8 are just a recap for the previous 7 parts |
-| 8    | 2        | AverageOfPositiveNumbers     | [ ]    |
-| 8    | 3        | LiquidContainers             | [ ]    |
-| 8    | 4        | LiquidContainers2            | [ ]    |
-| 8    | 5        | TodoList                     | [ ]    |
-| 8    | 6        | Nicknames                    | [ ]    |
-| 8    | 7        | Abbreviations                | [ ]    |
-| 8    | 8        | PrintMeMyHashmap             | [ ]    |
-| 8    | 9        | PrintMeAnotherHashmap        | [ ]    |
-| 8    | 10       | IOweYou                      | [ ]    |
-| 8    | 11       | SameDate                     | [ ]    |
-| 8    | 12       | HashedDate                   | [ ]    |
-| 8    | 13       | VehicleRegistry              | [ ]    |
-| 8    | 14       | DictionaryOfManyTranslations | [ ]    |
-| 8    | 15       | StorageFacility              | [ ]    |
+| 8    | 1        | Cubes                        | ✅     | All exercises from 8 are just a recap for the previous 7 parts |
+| 8    | 2        | AverageOfPositiveNumbers     |        |
+| 8    | 3        | LiquidContainers             |        |
+| 8    | 4        | LiquidContainers2            |        |
+| 8    | 5        | TodoList                     |        |
+| 8    | 6        | Nicknames                    |        |
+| 8    | 7        | Abbreviations                |        |
+| 8    | 8        | PrintMeMyHashmap             |        |
+| 8    | 9        | PrintMeAnotherHashmap        |        |
+| 8    | 10       | IOweYou                      |        |
+| 8    | 11       | SameDate                     |        |
+| 8    | 12       | HashedDate                   |        |
+| 8    | 13       | VehicleRegistry              |        |
+| 8    | 14       | DictionaryOfManyTranslations |        |
+| 8    | 15       | StorageFacility              |        |
 
 # ✅ TO-DO
 
