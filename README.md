@@ -29,4 +29,4 @@ I've already finished the first part and I'll not be uploading it here (for now)
 
 # ✅ TO-DO
 
-- [ ] Make **progress section**, including a table with each exercise and its status.
+- [x] Make **progress section**, including a table with each exercise and its status.
