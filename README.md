@@ -15,7 +15,7 @@ I've already finished the first part and I'll not be uploading it here (for now)
 | 8    | 2        | AverageOfPositiveNumbers     | ✅     |
 | 8    | 3        | LiquidContainers             | ✅     |
 | 8    | 4        | LiquidContainers2            | ✅     |
-| 8    | 5        | TodoList                     |        |
+| 8    | 5        | TodoList                     | ✅     |
 | 8    | 6        | Nicknames                    |        |
 | 8    | 7        | Abbreviations                |        |
 | 8    | 8        | PrintMeMyHashmap             |        |
