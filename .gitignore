@@ -4,3 +4,4 @@ course_config.toml
 */.tmcproject.yml
 */src/test
 *.class
+.tmc.lock
