@@ -9,4 +9,4 @@ I've already finished the first part and I'll not be uploading it here (for now)
 
 # 📈 Progress
 
-- Part 8: 7/15
+- Part 8: 8/15
