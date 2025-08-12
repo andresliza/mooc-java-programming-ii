@@ -5,3 +5,4 @@ course_config.toml
 */src/test
 *.class
 .tmc.lock
+Incomplete/
