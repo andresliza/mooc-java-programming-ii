@@ -1,7 +1,7 @@
 course_config.toml
-*/target/
-*/pom.xml
-*/.tmcproject.yml
-*/src/test
+**/target/
+**/pom.xml
+**/.tmcproject.yml
+**/src/test
 *.class
 .tmc.lock
